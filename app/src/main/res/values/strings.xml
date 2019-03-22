@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Charpter3</string>
+    <string name="First">FirstView</string>
+    <string name="Second">SecondView</string>
+    <string name="Third">ThirdView</string>
+    <string name="Last">LastView</string>
+    <string name="Click">点一哈</string>
+    <string name="menu_delete">delete</string>
+    <string name="menu_select">selected</string>
+</resources>
