@@ -25,7 +25,7 @@ public class LastActivity extends AppCompatActivity {
     String [] number = new String[]{"One", "Two", "Three", "Four", "Five" };
     MySimpleAdapter sim;
     List<Map<String,Object>> listItems;
-
+    //重写适配器getView
     class MySimpleAdapter extends SimpleAdapter {
         public MySimpleAdapter(Context context, List<Map<String,Object>> data, int resource, String[] from, int[] to){
             super(context, data, resource, from, to);
